@@ -18,6 +18,9 @@ This project analyzes and visualizes the 2023 performance of Plant Co., a compan
 - **Prior YTD (PYTD):** 537.61K units
 - **Gross Profit % (GP%):** 39.62%
 
+DashBoard:
+<img width="801" height="456" alt="image" src="https://github.com/user-attachments/assets/5004a114-6f9b-445a-938c-27fb887b4185" />
+
 ### 2. Visualizations
 
 - **Waterfall Chart:** Shows YTD growth compared to PYTD by month, helping identify periods of growth and decline.
@@ -59,6 +62,7 @@ This project is for demonstration and educational purposes. Contact for custom b
 ## Contact
 
 For questions or collaboration, please contact: Mehul S V- mehulvishnu18@gmail.com
-<img width="801" height="456" alt="image" src="https://github.com/user-attachments/assets/5004a114-6f9b-445a-938c-27fb887b4185" />
+
+
 
 
