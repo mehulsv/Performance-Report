@@ -19,6 +19,7 @@ This project analyzes and visualizes the 2023 performance of Plant Co., a compan
 - **Gross Profit % (GP%):** 39.62%
 
 DashBoard:
+
 <img width="801" height="456" alt="image" src="https://github.com/user-attachments/assets/5004a114-6f9b-445a-938c-27fb887b4185" />
 
 ### 2. Visualizations
